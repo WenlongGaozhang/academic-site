@@ -32,3 +32,9 @@ I am a <strong>Lecturer (Assistant Professor) in Robotics and AI</strong> at the
 My published and under-review work includes papers in <strong>Advanced Science</strong>, <strong>Science Robotics</strong> (under review), <em>Mechanism and Machine Theory</em>, and <em>IEEE Transactions on Robotics</em>, spanning biomimetic systems, fluidic/pneumatic actuation, and rigid-soft hybrid robot architectures. I am currently extending this work toward AI-guided embodiment and physics-aware world models, integrating learning-based control with compliant robotic hardware — using NVIDIA Isaac Sim to build GPU-accelerated parallel environments and train reinforcement-learning policies for end-to-end control. My long-term goal is a robust combination of classical physical modelling and generative AI, with deterministic safety envelopes constraining exploratory neural control.
 
 At Essex I lead the "Embodied AI and Compliant Manipulation" theme within the Robotics and Embedded Systems group, teach Robotics (CE215-5-SP) and Embedded Systems Programming (CE865-7-AU), and supervise PhD, MSc, and undergraduate research projects.
+
+##### Education
+
+- **PhD in Robotics**, University College London (UCL), UK — Oct 2020 to Mar 2025
+- **MSc in Mechanical Engineering (Distinction)**, Xi'an Jiaotong University, China — Sep 2017 to Jul 2020
+- **BEng in Mechatronic Engineering (Distinction)**, Xiamen University, China — Sep 2013 to Jul 2017
