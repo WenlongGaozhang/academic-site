@@ -108,7 +108,7 @@ cv:
           - Wenlong Gaozhang
           - Yue Li
           - Jialei Shi
-          - Yohan Wang
+          - Yaxi Wang
           - Kaspar Althoefer
           - Agostino Stilli
           - Helge A. Wurdemann
@@ -135,7 +135,7 @@ cv:
           - Wenlong Gaozhang
           - Yue Li
           - Jialei Shi
-          - Yohan Wang
+          - Yaxi Wang
           - Agostino Stilli
           - Helge Wurdemann
         publisher: "Mechanism and Machine Theory, vol. 196, 2024 (IF 5.2, JCR Q1 Top)"
@@ -148,17 +148,137 @@ cv:
           - Yue Li
           - Agostino Stilli
           - Helge Wurdemann
-        publisher: "IEEE International Conference on Robotics and Automation (ICRA), 2023"
+        publisher: "IEEE International Conference on Robotics and Automation (ICRA), pp. 655-661, 2023"
         releaseDate: 2023-01-01
 
       - title: Movement Environment Assessment and Force Prediction for Quadruped Robots
         authors:
-          - Zhiwen Chen
-          - Mingzhu Zou
+          - Zhen Chen
+          - Meng Zou
           - Wenlong Gaozhang
           - Yuanchang Liu
-          - Jian Huang
+          - Jie Huang
         publisher: "Journal of Field Robotics, vol. 43, no. 1, pp. 63-75, 2026 (IF 5.2, JCR Q1 Top; corresponding author)"
+        releaseDate: 2026-01-01
+
+      - title: "Characterisation and control platform for pneumatically driven soft robots: Design and applications"
+        authors:
+          - Jialei Shi
+          - Wenlong Gaozhang
+          - Hanyu Jin
+          - Ge Shi
+          - Helge A. Wurdemann
+        publisher: "IEEE International Conference on Soft Robotics (RoboSoft), 2023"
+        releaseDate: 2023-01-01
+
+      - title: Design and characterisation of cross-sectional geometries for soft robotic manipulators with fibre-reinforced chambers
+        authors:
+          - Jialei Shi
+          - Wenlong Gaozhang
+          - Helge A. Wurdemann
+        publisher: "IEEE 5th International Conference on Soft Robotics (RoboSoft), pp. 125-131, 2022"
+        releaseDate: 2022-01-01
+
+      - title: Optical-waveguide based 3-axial tactile sensor for minimally invasive surgical instruments
+        authors:
+          - Yue Li
+          - Wenlong Gaozhang
+          - Jian Hu
+          - Danqian Cao
+          - Prokar Dasgupta
+          - Hongbin Liu
+        publisher: "IEEE Robotics and Automation Letters, vol. 9, no. 2, pp. 1604-1611, 2023"
+        releaseDate: 2023-01-01
+
+      - title: "Alternative flexible correction forming of a blade: multipoint correction with surface measurement and deformation simulation"
+        authors:
+          - Da-Wei Zhang
+          - Wen-Long Gaozhang
+          - Qi Zhang
+        publisher: "Advances in Manufacturing, vol. 11, no. 4, pp. 587-600, 2023"
+        releaseDate: 2023-01-01
+
+      - title: Model-based static compliance analysis and control for pneumatic-driven soft robots
+        authors:
+          - Jialei Shi
+          - Sara-Adela Abad
+          - Ge Shi
+          - Wenlong Gaozhang
+          - Jian Sheng Dai
+          - Helge A. Wurdemann
+        publisher: "IEEE/ASME Transactions on Mechatronics, vol. 30, no. 6, pp. 5567-5578, 2025"
+        releaseDate: 2025-01-01
+
+      - title: "MR-conditional robotic cardiac intervention: Design and validation in patient-specific phantoms"
+        authors:
+          - Yaxi Wang
+          - Enhui Yong
+          - Wenlong Gaozhang
+          - Vivek Muthurangu
+          - Helge A. Wurdemann
+        publisher: "IEEE Transactions on Medical Robotics and Bionics, vol. 7, no. 4, pp. 1365-1376, 2025"
+        releaseDate: 2025-01-01
+
+      - title: Autonomous Exploration with Virtual Map using Unmanned Surface Vehicles
+        authors:
+          - Ye Li
+          - Yewei Huang
+          - Wenlong Gaozhang
+          - Yuanchang Liu
+        publisher: "30th International Conference on Automation and Computing (ICAC), 2025"
+        releaseDate: 2025-01-01
+
+      - title: A Static Modeling and Evaluation Framework for Soft Continuum Robots With Reinforced Chambers
+        authors:
+          - Jialei Shi
+          - Hanyu Jin
+          - Sara-Adela Abad
+          - Wenlong Gaozhang
+          - Ge Shi
+          - Helge A. Wurdemann
+        publisher: "IEEE Transactions on Robotics, vol. 41, pp. 6419-6439, 2025"
+        releaseDate: 2025-01-01
+
+      - title: "From Patient-specific Digital Twin to Real-world Phantom: Autonomous Right Heart Catheterization"
+        authors:
+          - Yaxi Wang
+          - Mengzhe Xu
+          - Wenlong Gaozhang
+          - Helge A. Wurdemann
+        publisher: "IEEE Robotics and Automation Magazine, Special Issue on Embodied AI, 2026"
+        releaseDate: 2026-01-01
+
+      - title: Flexible and Stretchable Optical Waveguide Tactile Sensor for 3-Axial Force Sensing
+        authors:
+          - Yue Li
+          - Wenlong Gaozhang
+          - Jian Hu
+          - Gongyu Zhang
+          - Prokar Dasgupta
+          - Sebastien Ourselin
+          - Hongbin Liu
+        publisher: "IEEE/ASME Transactions on Mechatronics, 2026"
+        releaseDate: 2026-01-01
+
+      - title: Variable-Resolution Virtual Maps for Autonomous Exploration with Unmanned Surface Vehicles (USVs)
+        authors:
+          - Ye Li
+          - Yewei Huang
+          - Yongchang Xie
+          - Wenlong Gaozhang
+          - Alberto Quattrini Li
+          - Brendan Englot
+          - Yuanchang Liu
+        publisher: "arXiv preprint arXiv:2603.22667, 2026 (also submitted to IJRR)"
+        releaseDate: 2026-01-01
+
+      - title: Stiffness Modelling and Control for Soft Material Continuum Robotic Manipulators
+        authors:
+          - Jialei Shi
+          - Wenlong Gaozhang
+          - Sara-Adela Abad
+          - Helge Wurdemann
+        publisher: "Soft Material Robotic Systems: Recent Advances and Future Developments, Springer, pp. 223-238, 2026"
         releaseDate: 2026-01-01
 
     Skills:
