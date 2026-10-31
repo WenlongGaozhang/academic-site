@@ -2,9 +2,9 @@
 layout: page
 title: Soft Continuum Manipulator with Reinforced Chambers
 description: A static modeling and evaluation framework for soft continuum robots with reinforced chambers (IEEE Transactions on Robotics). Co-project with Dr. Jialei Shi.
-img:
+img: ""
 importance: 3
-category:
+category: ""
 related_publications: true
 ---
 

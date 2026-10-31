@@ -2,9 +2,9 @@
 layout: page
 title: Bio-Inspired Fluidic Sensing for Underwater Manipulators
 description: Bio-inspired fluidic sensing enables situational awareness of flexible underwater manipulators (under review, Science Robotics). Collaboration with Prof. Yuanchang Liu and Prof. Helge A. Wurdemann.
-img:
+img: ""
 importance: 2
-category:
+category: ""
 related_publications: true
 ---
 

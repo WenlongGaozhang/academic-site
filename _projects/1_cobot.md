@@ -1,11 +1,12 @@
----
+\---
+
 layout: page
 title: Modular Variable-Stiffness Co-Bot
 description: A modular, stiffness-controllable co-bot system achieving task flexibility and contact compliance (Advanced Science). Collaboration with Prof. Helge A. Wurdemann.
-img:
+img: ""
 importance: 1
-category:
-related_publications: true
+category: ""
+related\_publications: true
 ---
 
 A modular family of antagonistically-actuated robotic joints and end-effectors, built from fiber-reinforced silicone chambers, giving three-fold dynamic stiffness modulation for safe, compliant human-robot interaction.
@@ -18,3 +19,4 @@ A modular family of antagonistically-actuated robotic joints and end-effectors, 
 <div class="caption">
     Supplementary demonstration video for the Advanced Science paper.
 </div>
+

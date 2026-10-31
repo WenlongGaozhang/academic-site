@@ -4,7 +4,7 @@ title: Soft Haptic Feedback System (SoftSensation)
 description: A soft, hand-worn haptic force-feedback device for a neuropathy-diagnosis clinical trial at UCL Hospitals. Project Research Assistant with Dr. Sara Adela Abad G.
 img: assets/img/soft-haptic-feedback-system.jpg
 importance: 5
-category:
+category: ""
 related_publications: false
 ---
 

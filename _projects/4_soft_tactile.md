@@ -2,9 +2,9 @@
 layout: page
 title: Soft Tactile Sensors
 description: Flexible and stretchable optical waveguide tactile sensors for 3-axial force sensing (IEEE/ASME Transactions on Mechatronics). Co-project with Dr. Yue Li.
-img:
+img: ""
 importance: 4
-category:
+category: ""
 related_publications: true
 ---
 
