@@ -1,0 +1,225 @@
+cv:
+  name: Wenlong Gaozhang
+  label: Lecturer (Assistant Professor) in Robotics and AI
+  email: wenlong.gaozhang@essex.ac.uk
+  location: Colchester, UK
+  image: ""
+  summary: Lecturer in Robotics and AI at the University of Essex and former UCL Research Fellow, working across mechatronic design, variable-stiffness and soft robotics, tactile sensing, and embodied AI.
+
+  social_networks:
+    - network: GitHub
+      username: WenlongGaozhang
+    - network: LinkedIn
+      username: wenlong-gaozhang-b16962226
+
+  address:
+    street: School of Computer Science and Electronic Engineering
+    city: Colchester
+    region: England
+    postalCode: ""
+    countryCode: UK
+
+  sections:
+    Education:
+      - institution: University College London (UCL)
+        location: London, UK
+        area: Robotics
+        studyType: PhD
+        start_date: 2020-10
+        end_date: 2025-03
+        highlights:
+          - "Thesis: Modular Variable-Stiffness Joints — Towards Intrinsically Safe Collaborative Robots."
+          - Funded by EPSRC.
+
+      - institution: Xi'an Jiaotong University
+        location: Xi'an, China
+        area: Mechanical Engineering
+        studyType: MSc (Distinction)
+        start_date: 2017-09
+        end_date: 2020-07
+        highlights:
+          - Ranked in the top 10% of the cohort.
+
+      - institution: Xiamen University
+        location: Xiamen, China
+        area: Mechatronic Engineering
+        studyType: BEng (Distinction)
+        start_date: 2013-09
+        end_date: 2017-07
+
+    Experience:
+      - company: University of Essex
+        position: Lecturer (Assistant Professor) in Robotics and AI
+        location: Colchester, UK
+        start_date: 2026-03
+        end_date: ""
+        summary: School of Computer Science and Electronic Engineering, Robotics and Embedded Systems group.
+        highlights:
+          - Lead the "Embodied AI and Compliant Manipulation" research theme, embedding multimodal foundation models into variable-stiffness soft robotic hardware.
+          - Teach Robotics (CE215-5-SP, 120+ undergraduates) and Embedded Systems Programming (CE865-7-AU, 40+ postgraduates); lead the redesign of both modules.
+          - Supervise 1 fully-funded PhD candidate (second supervisor, at interview/selection stage), 3 MSc students, and 6 undergraduate research projects.
+          - Serve as a university Academic Misconduct Panel member and on the department's Athena Swan committee; personal tutor for undergraduates.
+          - Maintain collaborations with UCL Computer Science, UCL Mechanical Engineering, Imperial College London's Hamlyn Centre, TU Munich, and Stevens Institute of Technology, with industry/clinical translation links to the Port of London Authority and UCL Hospitals (UCLH).
+
+      - company: University College London (UCL)
+        position: Senior Research Fellow / Research Fellow
+        location: London, UK
+        start_date: 2024-03
+        end_date: 2026-03
+        summary: EPSRC-funded project (EP/Y000862/1, £800K+ total award) on autonomous underwater exploration and manipulation, with Dr. Yuanchang Liu (Associate Professor, UCL Mechanical Engineering).
+        highlights:
+          - Developed an embedded AI control framework for a bio-inspired modular variable-stiffness manipulator, enabling safe, compliant underwater operation in unstructured environments.
+          - Results submitted to Science Robotics and presented at ICRA 2026 (Vienna).
+
+      - company: University College London (UCL)
+        position: Research Assistant
+        location: London, UK
+        start_date: 2022-09
+        end_date: 2024-03
+        summary: Co-Investigator and systems-engineering lead on the "SoftSensation" interdisciplinary clinical-engineering project, with Dr. Sara Adela Abad G., Prof. Helge Wurdemann (UCL), and Prof. Martin Koltzenburg (UCL Hospitals).
+        highlights:
+          - Led development of a soft, hand-worn haptic force-feedback device used in a neuropathy-diagnosis clinical trial at UCL Hospitals, iterating on mechanical design and control.
+          - Work covered by The Times, Sky News, and the Financial Times.
+
+    Awards:
+      - title: UCL Mechanical Engineering Departmental Award for Academic and Research Impact
+        authors:
+          - "UCL Department of Mechanical Engineering"
+        date: 2024-06-01
+        awarder: UCL Department of Mechanical Engineering
+        summary: "Award of £2,200 recognising academic and research-impact contribution."
+
+      - title: Best Poster Runner-Up, IEEE UK & Ireland Robotics and Autonomous Systems (RAS) Conference
+        authors:
+          - "IEEE RAS UK & Ireland"
+        date: 2022-01-01
+        awarder: IEEE RAS UK & Ireland Chapter
+
+      - title: National First Prize, 16th National Robot Competition (RoboCon)
+        authors:
+          - "China Robot Competition Committee"
+        date: 2017-01-01
+        awarder: RoboCon
+        summary: "Ranked in the top 4 of 128 participating universities; served as team captain."
+
+    Publications:
+      - title: A modular and stiffness-controllable co-bot system achieving tasks flexibility and contact compliance
+        authors:
+          - Wenlong Gaozhang
+          - Yue Li
+          - Jialei Shi
+          - Yohan Wang
+          - Kaspar Althoefer
+          - Agostino Stilli
+          - Helge A. Wurdemann
+        publisher: "Advanced Science, vol. 13, no. 55, 2026 (IF 14.1)"
+        releaseDate: 2026-01-01
+        url: https://doi.org/10.1002/advs.77372
+
+      - title: Bio-inspired fluidic sensing enables situational awareness of flexible underwater manipulators
+        authors:
+          - Wenlong Gaozhang
+          - Yue Li
+          - Jialei Shi
+          - Yuanyuan Duan
+          - Davide Grande
+          - Chenguang Liu
+          - Sara A. Guaman
+          - Brendan Englot
+          - Helge A. Wurdemann
+          - Yuanchang Liu
+        publisher: "Science Robotics (under review, IF 25.5)"
+
+      - title: A novel stiffness-controllable joint using antagonistic actuation principles
+        authors:
+          - Wenlong Gaozhang
+          - Yue Li
+          - Jialei Shi
+          - Yohan Wang
+          - Agostino Stilli
+          - Helge Wurdemann
+        publisher: "Mechanism and Machine Theory, vol. 196, 2024 (IF 5.2, JCR Q1 Top)"
+        releaseDate: 2024-01-01
+
+      - title: Characterisation of antagonistically actuated, stiffness-controllable joint-link units for cobots
+        authors:
+          - Wenlong Gaozhang
+          - Jialei Shi
+          - Yue Li
+          - Agostino Stilli
+          - Helge Wurdemann
+        publisher: "IEEE International Conference on Robotics and Automation (ICRA), 2023"
+        releaseDate: 2023-01-01
+
+      - title: Movement Environment Assessment and Force Prediction for Quadruped Robots
+        authors:
+          - Zhiwen Chen
+          - Mingzhu Zou
+          - Wenlong Gaozhang
+          - Yuanchang Liu
+          - Jian Huang
+        publisher: "Journal of Field Robotics, vol. 43, no. 1, pp. 63-75, 2026 (IF 5.2, JCR Q1 Top; corresponding author)"
+        releaseDate: 2026-01-01
+
+    Skills:
+      - name: Robot Learning & AI
+        level: Advanced
+        icon: fa-solid fa-brain
+        keywords: "PyTorch, TensorFlow, reinforcement learning, computer vision, TinyML, NVIDIA Isaac Sim"
+
+      - name: Robotics Frameworks & Simulation
+        level: Advanced
+        icon: fa-solid fa-robot
+        keywords: "ROS2, sim-to-real transfer, multiphysics/FEA simulation"
+
+      - name: Hardware & Embedded Systems
+        level: Advanced
+        icon: fa-solid fa-microchip
+        keywords: "Altium Designer (PCB design), SolidWorks, Arduino, real-time embedded C"
+
+      - name: Programming
+        level: Advanced
+        icon: fa-solid fa-code
+        keywords: "Python, C++, MATLAB"
+
+    Interests:
+      - name: Embodied AI & Robot Learning
+        icon: fa-solid fa-tag
+        keywords: "Foundation-model-driven robot learning, vision-language-action (VLA) control, reinforcement learning"
+
+      - name: Trustworthy Autonomous Systems
+        icon: fa-solid fa-tag
+        keywords: "Robot safety and formal verification, variable-stiffness manipulation, adaptive control"
+
+      - name: Intelligent Human-Robot Interaction
+        icon: fa-solid fa-tag
+        keywords: "HRI, multimodal soft sensing, haptic force feedback"
+
+      - name: Applied Robotics
+        icon: fa-solid fa-tag
+        keywords: "AUV/USV autonomy, medical and surgical robotics, soft and sustainable robotic systems"
+
+    Projects:
+      - name: Modular Battery Energy Storage for UK Inland Waterways
+        summary: "Innovate UK Clean Maritime Demonstration Competition 7 (CMDC7, feasibility study, application 10208129) — modular battery energy-storage stations for the electrification and decarbonisation of UK inland-waterway vessels."
+        highlights:
+          - "Role: Co-Investigator"
+          - "Total award: approx. £717,551 — funded"
+
+      - name: Flow-Matching-Based VLA Robot Control Framework
+        summary: "Royal Society–NSFC International Exchanges award for joint UK-China research on vision-language-action control frameworks."
+        highlights:
+          - "Role: Principal Investigator"
+          - "Approx. £12,000 — submitted, under review"
+
+      - name: Modular Variable-Stiffness Robotic Manipulator Arm
+        summary: "EPSRC (EP/Y000862/1) — design, modelling, and control of a variable-stiffness robotic manipulator arm."
+        highlights:
+          - "Role: Co-Investigator / core researcher"
+          - "Total award: £840,000+ — completed"
+
+      - name: Soft Continuum Manipulator for Minimally Invasive Surgery
+        summary: "Academy of Medical Sciences Springboard award — soft continuum robotic manipulator for minimally invasive surgical applications."
+        highlights:
+          - "Role: Co-Investigator / core researcher"
+          - "£150,000 — completed"

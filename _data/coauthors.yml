@@ -1,0 +1,6 @@
+# Maps a bibtex author surname key to known first-name variants and a profile URL,
+# so matching co-author names in _bibliography/papers.bib get linked automatically.
+# Example:
+# "liu":
+#   - firstname: ["Yuanchang", "Y."]
+#     url: https://example.com/yuanchang-liu
