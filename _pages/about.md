@@ -9,9 +9,11 @@ profile:
   image: profile-photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
     <p>School of Computer Science and Electronic Engineering</p>
     <p>University of Essex</p>
     <p>Colchester, UK</p>
+    </div>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
